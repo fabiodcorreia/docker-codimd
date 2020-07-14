@@ -1,0 +1,145 @@
+alpine-baselayout-3.2.0-r7
+alpine-keys-2.2-r0
+apk-tools-2.10.5-r1
+bash-5.0.17-r0
+brotli-libs-1.0.7-r5
+busybox-1.31.1-r19
+c-ares-1.16.1-r0
+ca-certificates-20191127-r4
+ca-certificates-bundle-20191127-r4
+coreutils-8.32-r0
+libacl-2.2.53-r0
+libattr-2.4.48-r0
+libc-utils-0.7.2-r3
+libcrypto1.1-1.1.1g-r0
+libgcc-9.3.0-r2
+libintl-0.20.2-r0
+libproc-3.3.16-r0
+libssl1.1-1.1.1g-r0
+libstdc++-9.3.0-r2
+libtls-standalone-2.9.1-r1
+libuv-1.37.0-r0
+linux-pam-1.3.1-r4
+musl-1.1.24-r9
+musl-utils-1.1.24-r9
+ncurses-libs-6.2_p20200523-r0
+ncurses-terminfo-base-6.2_p20200523-r0
+nghttp2-libs-1.41.0-r0
+nodejs-12.17.0-r0
+npm-12.17.0-r0
+procps-3.3.16-r0
+readline-8.0.4-r0
+scanelf-1.2.6-r0
+shadow-4.8.1-r0
+ssl_client-1.31.1-r19
+tzdata-2020a-r0
+xz-5.2.5-r0
+xz-libs-5.2.5-r0
+zlib-1.2.11-r3
+===== NPM Packages =====
+CodiMD@1.6.0 /app/codimd
++-- archiver@2.1.1
++-- async@2.6.3
++-- base64url@3.0.1
++-- body-parser@1.19.0
++-- bootstrap@3.4.1
++-- bootstrap-validator@0.11.9
++-- bufferutil@4.0.1
++-- chance@1.1.6
++-- cheerio@0.22.0
++-- codemirror@5.49.5 (git+https://github.com/hackmdio/CodeMirror.git#758dce538aa923d83ceddfb31d26c6b62ab1ee3a)
++-- compression@1.7.4
++-- connect-flash@0.1.1
++-- connect-session-sequelize@6.1.1
++-- cookie@0.3.1
++-- cookie-parser@1.4.3
++-- deep-freeze@0.0.1
++-- @hackmd/diff-match-patch@1.1.1 (git+https://github.com/hackmdio/diff-match-patch.git#c2f8fb9d69aa9490b764850aa86ba442c93ccf78)
++-- ejs@2.7.4
++-- emojify.js@1.1.0
++-- escape-html@1.0.3
++-- express@4.17.1
++-- express-session@1.17.1
++-- file-saver@1.3.8
++-- flowchart.js@1.13.0
++-- fork-awesome@1.1.7
++-- formidable@1.2.2
++-- gist-embed@2.6.0
++-- graceful-fs@4.2.4
++-- handlebars@4.7.6
++-- helmet@3.23.3
++-- highlight.js@9.12.0
++-- i18n@0.8.6
++-- Idle.Js@0.0.1 (git+https://github.com/shawnmclean/Idle.js.git#db9beb3483a460ad638ec947867720f0ed066a62)
++-- @hackmd/imgur@0.5.0 (git+https://github.com/hackmdio/node-imgur.git#de0a7a1f1eb2cb6628385fedb990ad396a190573)
++-- ionicons@2.0.1
++-- jquery@3.5.1
++-- jquery-mousewheel@3.1.13
++-- jquery-ui@1.12.1
++-- js-cookie@2.2.1
++-- js-sequence-diagrams@2.0.1 (git+https://github.com/codimd/js-sequence-diagrams.git#407a22f5e1f2825390dc7c1bc8f67d1f2370d833)
++-- js-yaml@3.14.0
++-- jsdom-nogyp@0.8.3
++-- keymaster@1.6.2
++-- list.js@1.5.0
++-- lodash@4.17.19
++-- lutim@1.0.3
++-- @hackmd/lz-string@1.4.4 (git+https://github.com/hackmdio/lz-string.git#efd1f64676264d6d8871b01f4f375fc6ef4f9022)
++-- mariadb@2.4.1
++-- markdown-it@10.0.0
++-- markdown-it-abbr@1.0.4
++-- markdown-it-container@2.0.0
++-- markdown-it-deflist@2.0.3
++-- markdown-it-emoji@1.4.0
++-- markdown-it-footnote@3.0.2
++-- markdown-it-imsize@2.0.1
++-- markdown-it-ins@2.0.0
++-- markdown-it-mark@2.0.0
++-- markdown-it-mathjax@2.0.0
++-- markdown-it-regexp@0.4.0
++-- markdown-it-sub@1.0.0
++-- markdown-it-sup@1.0.0
++-- markdown-pdf@10.0.0
++-- mathjax@2.7.8
++-- mermaid@8.4.8
++-- meta-marked@0.4.5 (git+https://github.com/codimd/meta-marked.git#a7b45a287465f79656134ff7142d1d74c8fcacfd)
++-- method-override@2.3.10
++-- minimist@1.2.5
++-- moment@2.27.0
++-- morgan@1.10.0
++-- mysql2@2.1.0
++-- passport@0.4.1
++-- passport-local@1.0.0
++-- passport.socketio@3.7.0
++-- pdfobject@2.1.1
++-- prismjs@1.20.0
++-- randomcolor@0.5.4
++-- raphael@2.3.0 (git+https://github.com/dmitrybaranovskiy/raphael.git#b5fdbdc9850827eb49622cd0bc81b26025f8128a)
++-- readline-sync@1.4.10
++-- request@2.88.2
++-- reveal.js@3.9.2
++-- scrypt-async@2.0.1
++-- scrypt-kdf@2.0.1
++-- select2@3.5.2-browserify
++-- sequelize@5.22.3
++-- sequelize-cli@5.5.1
++-- shortid@2.2.8
++-- socket.io@2.1.1
++-- socket.io-client@2.1.1
++-- spin.js@2.3.2
++-- store@2.0.12
++-- string@3.3.3
++-- tedious@6.7.0
++-- toobusy-js@0.5.1
++-- turndown@5.0.3
++-- utf-8-validate@5.0.2
++-- uuid@3.4.0
++-- validator@10.11.0
++-- velocity-animate@1.5.2
++-- visibilityjs@1.2.8
++-- viz.js@1.8.2
++-- winston@3.3.3
++-- ws@6.2.1
++-- wurl@2.5.4
+`-- xss@1.0.7
+

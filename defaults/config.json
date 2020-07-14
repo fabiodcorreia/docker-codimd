@@ -1,0 +1,8 @@
+{
+  "production": {
+    "loglevel": "info",
+    "db": {
+      "dialect": "mysql"
+    }
+  }
+}
